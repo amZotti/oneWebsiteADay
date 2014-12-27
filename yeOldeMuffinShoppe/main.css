@@ -1,0 +1,46 @@
+html {
+  background-color: #FFCB75;
+  font-family: Arial Rounded MT Bold;
+}
+
+body {
+  background-color: #F78D63;
+
+}
+
+a:link {
+   color: rgb(139, 14, 139);
+}
+
+header {
+  background-color: #C2668F;
+  margin-bottom: 60px;
+}
+
+#display img {
+  height: 150px;
+  width: 150px;
+  padding: 50px;
+  border-radius: 100px;
+}
+
+#display {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  background-color: #E1646C;
+}
+
+footer a {
+  margin: 0 100px 0 100px;
+}
+
+.recipe p {
+  width: 600px;
+}
+
+#muffinman-bio {
+  text-align: center;
+}
