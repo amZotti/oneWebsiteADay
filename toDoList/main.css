@@ -1,0 +1,46 @@
+body {
+  background-color: #2a2a2a;
+}
+
+#container {
+  background-color: gray;
+  height: 700px;
+  width: 1000px;
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+.intro {
+  width: 50%;
+  text-align: center;
+  margin: 0 auto 0 auto;
+  padding: 10px 0 10px 0;
+}
+
+#todo-create-button {
+  width: 50px;
+  height: 10px;
+  margin-left: 10px;
+  position: absolute;
+}
+
+.todo-text {
+  margin: 30px 10px 30px 10px;
+  display: inline-block;
+}
+
+img {
+  position: absolute;
+  border-radius: 20px;
+  height: 195px;
+  width: 300px;
+  opacity: 0;
+}
+
+#img1 {
+  left: 270px;
+}
+
+#img2 {
+  right: 270px;
+}
