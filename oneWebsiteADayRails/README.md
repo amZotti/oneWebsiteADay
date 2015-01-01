@@ -18,5 +18,5 @@ just recreate my static content in public directory using system copy instead of
 using a git submodule.</p></li>
 </ol>
 
-<h3><a href="https://blooming-caverns-2960.herokuapp.com/">Live URL</a></h3>
+<h3><a href="https://thirtywebsitesthirtydays.herokuapp.com/">Live URL</a></h3>
 
