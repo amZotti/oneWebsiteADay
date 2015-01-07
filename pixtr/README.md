@@ -13,3 +13,6 @@ of the core functionality because I want to preserve the quality of work I did
 when I first started, in order to track my progress since then.</p>
 
 <h3><a href="http://amzotti-pixtr.herokuapp.com/">Live URL</a></h3>
+
+<h3>Design Demo</h3>
+<img src="https://cloud.githubusercontent.com/assets/5640348/5633171/8d8aec8c-9589-11e4-93dd-b4d4fffaeee8.png"/>
