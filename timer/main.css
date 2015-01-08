@@ -1,0 +1,15 @@
+html {
+  background-color: black;
+  text-align: center;
+  margin-top: 200px;
+  color: white;
+  font-family: Serif;
+  font-size: 100px;
+}
+
+button {
+  width: 100px;
+  height: 100px;
+  background-color: gray;
+  color: white;
+}
