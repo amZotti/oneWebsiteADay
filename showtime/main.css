@@ -1,0 +1,21 @@
+html {
+  text-align: center;
+  margin: 0 auto 0 auto;
+  background-color: #784A8E;
+  font-family: sans-serif;
+}
+
+button {
+  background-color: #9974AA;
+  color: white;
+  width: 120px;
+  height: 40px;
+  border-radius: 20px;
+  border-color: black;
+  font-size: 13px;
+}
+
+.movie{
+  height: 290px;
+  width: 196px;
+}
